@@ -4,11 +4,11 @@ import logoImg from '../../assets/logo.svg'
 export function Header() {
 
   return(
-    <S.Container>
+    <S.HeaderContainer>
       <S.HeaderContent>
         <img src={logoImg} alt="" />
         <S.NewTransactionButton>Nova transação</S.NewTransactionButton>
       </S.HeaderContent>
-    </S.Container>
+    </S.HeaderContainer>
   )
 }
