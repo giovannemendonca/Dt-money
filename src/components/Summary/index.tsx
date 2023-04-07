@@ -1,4 +1,3 @@
-import React from 'react'
 import * as S from './styles'
 import { ArrowCircleDown, ArrowCircleUp, CurrencyDollar } from 'phosphor-react'
 
@@ -20,7 +19,7 @@ export function Summary() {
         </header>
         <strong>R$ 17.400,00</strong>
       </S.SummaryCard>
-      <S.SummaryCard variation='green'>
+      <S.SummaryCard variation="green">
         <header>
           <span>Total</span>
           <CurrencyDollar size={32} color="#FFF" />
