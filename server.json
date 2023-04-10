@@ -1,36 +1,28 @@
 {
   "transactions": [
     {
-      "id": 1,
-      "description": "Desenvolvimento de site",
-      "type": "income",
-      "category": "Vendas",
+      "description": "Desenvolvimento Site",
       "price": 14000,
-      "createdAt": "2023-04-08T14:06:43.240Z"
+      "category": "Vendas",
+      "type": "income",
+      "createdAt": "2023-04-10T16:51:26.870Z",
+      "id": 1
     },
     {
-      "id": 2,
-      "description": "Humburgue",
-      "type": "outcome",
-      "category": "Alimentação",
-      "price": 50,
-      "createdAt": "2023-04-08T10:20:10.240Z"
-    },
-    {
-      "id": 3,
-      "description": "Faculdade",
-      "type": "outcome",
-      "category": "Educacão",
-      "price": 504,
-      "createdAt": "2023-03-01T10:20:10.240Z"
-    },
-    {
-      "description": "Açai",
-      "price": 22,
+      "description": "Acai",
+      "price": 32,
       "category": "Alimentação",
       "type": "outcome",
-      "createdAt": "2023-04-10T15:29:04.337Z",
-      "id": 4
+      "createdAt": "2023-04-10T16:51:46.622Z",
+      "id": 2
+    },
+    {
+      "description": "Curso",
+      "price": 2000,
+      "category": "Estudos",
+      "type": "outcome",
+      "createdAt": "2023-04-10T16:58:26.491Z",
+      "id": 3
     }
   ]
 }
