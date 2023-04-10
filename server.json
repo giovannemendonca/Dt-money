@@ -23,6 +23,14 @@
       "category": "Educacão",
       "price": 504,
       "createdAt": "2023-03-01T10:20:10.240Z"
+    },
+    {
+      "description": "Açai",
+      "price": 22,
+      "category": "Alimentação",
+      "type": "outcome",
+      "createdAt": "2023-04-10T15:29:04.337Z",
+      "id": 4
     }
   ]
 }
